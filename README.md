@@ -12,7 +12,7 @@
 
                                             Submitted by
 
-                              Kesani Vijay Kumar (22HU1A4233)
+                              Kesani Vijay Krishna (22HU1A4233)
 
                        Kollimarla yashwanth siva raj kumar (22HU1A4236)
 
