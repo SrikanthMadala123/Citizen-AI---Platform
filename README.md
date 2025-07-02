@@ -1,4 +1,7 @@
 # Citizen-AI---Platform
+
+1.INTRODUCTION:
+
 CHEBROLU ENGINEERING COLLEGE
 
 Department of Artificial Intelligence and Machine Learning
@@ -67,30 +70,55 @@ LTVIP2025TMID35814
    * Information Retrieval & Generation: Retrieves information from the knowledge base or generates responses based on query analysis.
      
    * Citizen Profile Management: Manages and updates citizen profiles based on interactions.
+  
+     3.FOLDER STRUCTURE :
 
 citizen-ai-platform/
+
 ├── backend/
+
 │   ├── server.js
+
 │   ├── models/
+
 │   │   ├── User.js
+
 │   │   └── Complaint.js
+
 │   ├── routes/
+
 │   │   ├── auth.js
+
 │   │   ├── complaint.js
+
 │   │   └── chat.js
+
 │   ├── .env
+
 │   ├── package.json
+
 ├── frontend/
+
 │   ├── src/
+
 │   │   ├── App.jsx
+
 │   │   └── components/
+
 │   │       ├── LoginRegister.jsx
+
 │   │       ├── ComplaintForm.jsx
+
 │   │       └── Chatbot.jsx
+
 │   ├── public/
+
 │   │   └── index.html
+
 │   ├── package.json
+
 │   ├── tailwind.config.js
+
 │   └── src/index.css
 
 4. Setup Instructions:
@@ -121,7 +149,7 @@ citizen-ai-platform/
        
      * Web Server (e.g., Nginx, Apache)
 
-6. Running the Application:
+5. Running the Application:
    
  * Dependencies: All Python dependencies listed in requirements.txt must be installed.
    pip install -r requirements.txt
@@ -130,7 +158,7 @@ citizen-ai-platform/
    
  * Configuration: Update config/config.yaml with your database credentials, API keys for IBM Granite (if applicable), and other environment-specific settings.
    
- 7. API Documentation:
+ 6. API Documentation:
     
 This RESTful API enables:
 
@@ -156,7 +184,7 @@ Example API Endpoints (conceptual):
    
  * GET /api/v1/analytics/issues: Get categorized issue trends.
 
-8. Testing:
+7. Testing:
    
 CitizenAI Platform - API Testing Guide
 
@@ -182,6 +210,7 @@ CitizenAI Platform - API Testing Guide
      
    * Verify data integrity in citizen profiles.
 
-Conclusion:
+8. Conclusion:
+9. 
 The CitizenAI - Intelligent Citizen Platform leverages advanced AI capabilities, including natural language understanding and sentiment analysis, to provide an efficient, accurate, and scalable solution for modern citizen engagement. It integrates multi-channel access, robust processing, and comprehensive data management to streamline public service delivery and empower data-driven governance.
        
