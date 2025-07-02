@@ -1,4 +1,4 @@
-                                # Citizen-AI---Platform
+                                CITIZEN AI - PLATFORM
 
 1.INTRODUCTION:
 
