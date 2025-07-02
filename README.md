@@ -2,33 +2,32 @@
 
 1.INTRODUCTION:
 
-CHEBROLU ENGINEERING COLLEGE
+                               CHEBROLU ENGINEERING COLLEGE
 
-Department of Artificial Intelligence and Machine Learning
+                  Department of Artificial Intelligence and Machine Learning
 
-Surampalem
+            INTERNSHIP REPORT ON "Citizen AI - Intelligent Citizen Engagement Platform"
 
-INTERNSHIP REPORT ON "Citizen AI - Intelligent Citizen Engagement Platform"
+ Submitted in partial fulfillment of the requirements of the Virtual Internship Program Organized by SMART BRIDGE
 
-Submitted in partial fulfillment of the requirements of the Virtual Internship Program Organized by SMART BRIDGE
+                                            Submitted by
 
-Submitted by
+                              Kesani Vijay Kumar (22HU1A4233)
 
-Kesani Vijay Kumar (22HU1A4233)
+                       Kollimarla yashwanth siva raj kumar (22HU1A4236)
 
-Kollimarla yashwanth siva raj kumar (22HU1A4236)
+                               Kommuri Naga Vamsi (22HU1A4237)
 
-Kommuri Naga Vamsi (22HU1A4237)
+                                Kummari Yuvaraj (22HU1A4242)
 
-Kummari Yuvaraj (22HU1A4242)
+                                 Madala Srikanth (22HU1A4244)
 
-Madala Srikanth (22HU1A4244)
+                                            TEAM ID:
 
-TEAM ID:
-
-LTVIP2025TMID35814
+                                     LTVIP2025TMID35814
 
 2. Project Overview:
+   
  * Purpose: The primary purpose of CitizenAI is to provide an intelligent platform for enhanced citizen engagement and efficient public service delivery. It aims to streamline communication between citizens and government/service providers, offer personalized services, and provide data-driven insights for improved governance.
    
  * Goals of CitizenAI Platform:
